@@ -1,0 +1,1014 @@
+Version 4.0 HI-TECH Software Intermediate Code
+[p mainexit ]
+"1455 /Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1455: extern volatile unsigned char OPTION_REG __attribute__((address(0x095)));
+[v _OPTION_REG `Vuc ~T0 @X0 0 e@149 ]
+"732
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 732: extern volatile unsigned char TMR0 __attribute__((address(0x015)));
+[v _TMR0 `Vuc ~T0 @X0 0 e@21 ]
+"1706
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1706: extern volatile unsigned char OSCCON __attribute__((address(0x099)));
+[v _OSCCON `Vuc ~T0 @X0 0 e@153 ]
+"8102
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 8102: extern volatile __bit TXCKSEL __attribute__((address(0x8F0)));
+[v _TXCKSEL `Vb ~T0 @X0 0 e@2288 ]
+"7187
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7187: extern volatile __bit CREN __attribute__((address(0xCEC)));
+[v _CREN `Vb ~T0 @X0 0 e@3308 ]
+"6878
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6878: extern volatile __bit BRGH __attribute__((address(0xCF2)));
+[v _BRGH `Vb ~T0 @X0 0 e@3314 ]
+"6875
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6875: extern volatile __bit BRG16 __attribute__((address(0xCFB)));
+[v _BRG16 `Vb ~T0 @X0 0 e@3323 ]
+"3224
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3224: extern volatile unsigned char SPBRG __attribute__((address(0x19B)));
+[v _SPBRG `Vuc ~T0 @X0 0 e@411 ]
+"8105
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 8105: extern volatile __bit TXEN __attribute__((address(0xCF5)));
+[v _TXEN `Vb ~T0 @X0 0 e@3317 ]
+"7742
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7742: extern volatile __bit SPEN __attribute__((address(0xCEF)));
+[v _SPEN `Vb ~T0 @X0 0 e@3311 ]
+"1152
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1152: extern volatile unsigned char TRISA __attribute__((address(0x08C)));
+[v _TRISA `Vuc ~T0 @X0 0 e@140 ]
+"1214
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1214: extern volatile unsigned char TRISB __attribute__((address(0x08D)));
+[v _TRISB `Vuc ~T0 @X0 0 e@141 ]
+"2861
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2861: extern volatile unsigned char ANSELA __attribute__((address(0x18C)));
+[v _ANSELA `Vuc ~T0 @X0 0 e@396 ]
+"2913
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2913: extern volatile unsigned char ANSELB __attribute__((address(0x18D)));
+[v _ANSELB `Vuc ~T0 @X0 0 e@397 ]
+"799
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 799: extern volatile unsigned char T1CON __attribute__((address(0x018)));
+[v _T1CON `Vuc ~T0 @X0 0 e@24 ]
+"7421
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7421: extern volatile __bit LATB1 __attribute__((address(0x869)));
+[v _LATB1 `Vb ~T0 @X0 0 e@2153 ]
+[v F192 `(v ~T0 @X0 1 tf1`ul ]
+"12 /Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/builtins.h
+[v __delay `JF192 ~T0 @X0 0 e ]
+[p i __delay ]
+"23 DualShock2send.c
+[; ;DualShock2send.c: 23: void get_ps_con_new(void);
+[v _get_ps_con_new `(v ~T0 @X0 0 ef ]
+"7418 /Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7418: extern volatile __bit LATB0 __attribute__((address(0x868)));
+[v _LATB0 `Vb ~T0 @X0 0 e@2152 ]
+"25 DualShock2send.c
+[; ;DualShock2send.c: 25: void putch(uint8_t c);
+[v _putch `(v ~T0 @X0 0 ef1`uc ]
+"7403 /Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7403: extern volatile __bit LATA2 __attribute__((address(0x862)));
+[v _LATA2 `Vb ~T0 @X0 0 e@2146 ]
+"24 DualShock2send.c
+[; ;DualShock2send.c: 24: uint8_t ps_data(uint8_t pst);
+[v _ps_data `(uc ~T0 @X0 0 ef1`uc ]
+"7406 /Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7406: extern volatile __bit LATA3 __attribute__((address(0x863)));
+[v _LATA3 `Vb ~T0 @X0 0 e@2147 ]
+"7400
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7400: extern volatile __bit LATA1 __attribute__((address(0x861)));
+[v _LATA1 `Vb ~T0 @X0 0 e@2145 ]
+"7700
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 7700: extern volatile __bit RB7 __attribute__((address(0x6F)));
+[v _RB7 `Vb ~T0 @X0 0 e@111 ]
+"8069
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 8069: extern volatile __bit TRMT __attribute__((address(0xCF1)));
+[v _TRMT `Vb ~T0 @X0 0 e@3313 ]
+"3192
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3192: extern volatile unsigned char TXREG __attribute__((address(0x19A)));
+[v _TXREG `Vuc ~T0 @X0 0 e@410 ]
+"54 /Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 54: __asm("INDF0 equ 00h");
+[; <" INDF0 equ 00h ;# ">
+"74
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 74: __asm("INDF1 equ 01h");
+[; <" INDF1 equ 01h ;# ">
+"94
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 94: __asm("PCL equ 02h");
+[; <" PCL equ 02h ;# ">
+"114
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 114: __asm("STATUS equ 03h");
+[; <" STATUS equ 03h ;# ">
+"177
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 177: __asm("FSR0L equ 04h");
+[; <" FSR0L equ 04h ;# ">
+"197
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 197: __asm("FSR0H equ 05h");
+[; <" FSR0H equ 05h ;# ">
+"221
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 221: __asm("FSR1L equ 06h");
+[; <" FSR1L equ 06h ;# ">
+"241
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 241: __asm("FSR1H equ 07h");
+[; <" FSR1H equ 07h ;# ">
+"261
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 261: __asm("BSR equ 08h");
+[; <" BSR equ 08h ;# ">
+"313
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 313: __asm("WREG equ 09h");
+[; <" WREG equ 09h ;# ">
+"333
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 333: __asm("PCLATH equ 0Ah");
+[; <" PCLATH equ 0Ah ;# ">
+"353
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 353: __asm("INTCON equ 0Bh");
+[; <" INTCON equ 0Bh ;# ">
+"431
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 431: __asm("PORTA equ 0Ch");
+[; <" PORTA equ 0Ch ;# ">
+"493
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 493: __asm("PORTB equ 0Dh");
+[; <" PORTB equ 0Dh ;# ">
+"555
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 555: __asm("PIR1 equ 011h");
+[; <" PIR1 equ 011h ;# ">
+"617
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 617: __asm("PIR2 equ 012h");
+[; <" PIR2 equ 012h ;# ">
+"668
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 668: __asm("PIR3 equ 013h");
+[; <" PIR3 equ 013h ;# ">
+"708
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 708: __asm("PIR4 equ 014h");
+[; <" PIR4 equ 014h ;# ">
+"734
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 734: __asm("TMR0 equ 015h");
+[; <" TMR0 equ 015h ;# ">
+"754
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 754: __asm("TMR1 equ 016h");
+[; <" TMR1 equ 016h ;# ">
+"761
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 761: __asm("TMR1L equ 016h");
+[; <" TMR1L equ 016h ;# ">
+"781
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 781: __asm("TMR1H equ 017h");
+[; <" TMR1H equ 017h ;# ">
+"801
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 801: __asm("T1CON equ 018h");
+[; <" T1CON equ 018h ;# ">
+"873
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 873: __asm("T1GCON equ 019h");
+[; <" T1GCON equ 019h ;# ">
+"943
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 943: __asm("TMR2 equ 01Ah");
+[; <" TMR2 equ 01Ah ;# ">
+"963
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 963: __asm("PR2 equ 01Bh");
+[; <" PR2 equ 01Bh ;# ">
+"983
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 983: __asm("T2CON equ 01Ch");
+[; <" T2CON equ 01Ch ;# ">
+"1054
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1054: __asm("CPSCON0 equ 01Eh");
+[; <" CPSCON0 equ 01Eh ;# ">
+"1108
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1108: __asm("CPSCON1 equ 01Fh");
+[; <" CPSCON1 equ 01Fh ;# ">
+"1154
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1154: __asm("TRISA equ 08Ch");
+[; <" TRISA equ 08Ch ;# ">
+"1216
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1216: __asm("TRISB equ 08Dh");
+[; <" TRISB equ 08Dh ;# ">
+"1278
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1278: __asm("PIE1 equ 091h");
+[; <" PIE1 equ 091h ;# ">
+"1340
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1340: __asm("PIE2 equ 092h");
+[; <" PIE2 equ 092h ;# ">
+"1391
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1391: __asm("PIE3 equ 093h");
+[; <" PIE3 equ 093h ;# ">
+"1431
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1431: __asm("PIE4 equ 094h");
+[; <" PIE4 equ 094h ;# ">
+"1457
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1457: __asm("OPTION_REG equ 095h");
+[; <" OPTION_REG equ 095h ;# ">
+"1540
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1540: __asm("PCON equ 096h");
+[; <" PCON equ 096h ;# ">
+"1591
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1591: __asm("WDTCON equ 097h");
+[; <" WDTCON equ 097h ;# ">
+"1650
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1650: __asm("OSCTUNE equ 098h");
+[; <" OSCTUNE equ 098h ;# ">
+"1708
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1708: __asm("OSCCON equ 099h");
+[; <" OSCCON equ 099h ;# ">
+"1780
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1780: __asm("OSCSTAT equ 09Ah");
+[; <" OSCSTAT equ 09Ah ;# ">
+"1842
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1842: __asm("ADRES equ 09Bh");
+[; <" ADRES equ 09Bh ;# ">
+"1849
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1849: __asm("ADRESL equ 09Bh");
+[; <" ADRESL equ 09Bh ;# ">
+"1869
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1869: __asm("ADRESH equ 09Ch");
+[; <" ADRESH equ 09Ch ;# ">
+"1889
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1889: __asm("ADCON0 equ 09Dh");
+[; <" ADCON0 equ 09Dh ;# ">
+"1969
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 1969: __asm("ADCON1 equ 09Eh");
+[; <" ADCON1 equ 09Eh ;# ">
+"2041
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2041: __asm("LATA equ 010Ch");
+[; <" LATA equ 010Ch ;# ">
+"2098
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2098: __asm("LATB equ 010Dh");
+[; <" LATB equ 010Dh ;# ">
+"2160
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2160: __asm("CM1CON0 equ 0111h");
+[; <" CM1CON0 equ 0111h ;# ">
+"2217
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2217: __asm("CM1CON1 equ 0112h");
+[; <" CM1CON1 equ 0112h ;# ">
+"2283
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2283: __asm("CM2CON0 equ 0113h");
+[; <" CM2CON0 equ 0113h ;# ">
+"2340
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2340: __asm("CM2CON1 equ 0114h");
+[; <" CM2CON1 equ 0114h ;# ">
+"2406
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2406: __asm("CMOUT equ 0115h");
+[; <" CMOUT equ 0115h ;# ">
+"2432
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2432: __asm("BORCON equ 0116h");
+[; <" BORCON equ 0116h ;# ">
+"2459
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2459: __asm("FVRCON equ 0117h");
+[; <" FVRCON equ 0117h ;# ">
+"2535
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2535: __asm("DACCON0 equ 0118h");
+[; <" DACCON0 equ 0118h ;# ">
+"2596
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2596: __asm("DACCON1 equ 0119h");
+[; <" DACCON1 equ 0119h ;# ">
+"2648
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2648: __asm("SRCON0 equ 011Ah");
+[; <" SRCON0 equ 011Ah ;# ">
+"2719
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2719: __asm("SRCON1 equ 011Bh");
+[; <" SRCON1 equ 011Bh ;# ">
+"2781
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2781: __asm("APFCON0 equ 011Dh");
+[; <" APFCON0 equ 011Dh ;# ">
+"2843
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2843: __asm("APFCON1 equ 011Eh");
+[; <" APFCON1 equ 011Eh ;# ">
+"2863
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2863: __asm("ANSELA equ 018Ch");
+[; <" ANSELA equ 018Ch ;# ">
+"2915
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2915: __asm("ANSELB equ 018Dh");
+[; <" ANSELB equ 018Dh ;# ">
+"2980
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2980: __asm("EEADR equ 0191h");
+[; <" EEADR equ 0191h ;# ">
+"2987
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 2987: __asm("EEADRL equ 0191h");
+[; <" EEADRL equ 0191h ;# ">
+"3007
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3007: __asm("EEADRH equ 0192h");
+[; <" EEADRH equ 0192h ;# ">
+"3027
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3027: __asm("EEDAT equ 0193h");
+[; <" EEDAT equ 0193h ;# ">
+"3034
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3034: __asm("EEDATL equ 0193h");
+[; <" EEDATL equ 0193h ;# ">
+"3039
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3039: __asm("EEDATA equ 0193h");
+[; <" EEDATA equ 0193h ;# ">
+"3072
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3072: __asm("EEDATH equ 0194h");
+[; <" EEDATH equ 0194h ;# ">
+"3092
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3092: __asm("EECON1 equ 0195h");
+[; <" EECON1 equ 0195h ;# ">
+"3154
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3154: __asm("EECON2 equ 0196h");
+[; <" EECON2 equ 0196h ;# ">
+"3174
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3174: __asm("RCREG equ 0199h");
+[; <" RCREG equ 0199h ;# ">
+"3194
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3194: __asm("TXREG equ 019Ah");
+[; <" TXREG equ 019Ah ;# ">
+"3214
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3214: __asm("SP1BRG equ 019Bh");
+[; <" SP1BRG equ 019Bh ;# ">
+"3221
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3221: __asm("SP1BRGL equ 019Bh");
+[; <" SP1BRGL equ 019Bh ;# ">
+"3226
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3226: __asm("SPBRG equ 019Bh");
+[; <" SPBRG equ 019Bh ;# ">
+"3230
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3230: __asm("SPBRGL equ 019Bh");
+[; <" SPBRGL equ 019Bh ;# ">
+"3275
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3275: __asm("SP1BRGH equ 019Ch");
+[; <" SP1BRGH equ 019Ch ;# ">
+"3280
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3280: __asm("SPBRGH equ 019Ch");
+[; <" SPBRGH equ 019Ch ;# ">
+"3313
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3313: __asm("RCSTA equ 019Dh");
+[; <" RCSTA equ 019Dh ;# ">
+"3375
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3375: __asm("TXSTA equ 019Eh");
+[; <" TXSTA equ 019Eh ;# ">
+"3437
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3437: __asm("BAUDCON equ 019Fh");
+[; <" BAUDCON equ 019Fh ;# ">
+"3489
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3489: __asm("WPUA equ 020Ch");
+[; <" WPUA equ 020Ch ;# ">
+"3518
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3518: __asm("WPUB equ 020Dh");
+[; <" WPUB equ 020Dh ;# ">
+"3588
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3588: __asm("SSP1BUF equ 0211h");
+[; <" SSP1BUF equ 0211h ;# ">
+"3593
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3593: __asm("SSPBUF equ 0211h");
+[; <" SSPBUF equ 0211h ;# ">
+"3626
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3626: __asm("SSP1ADD equ 0212h");
+[; <" SSP1ADD equ 0212h ;# ">
+"3631
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3631: __asm("SSPADD equ 0212h");
+[; <" SSPADD equ 0212h ;# ">
+"3664
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3664: __asm("SSP1MSK equ 0213h");
+[; <" SSP1MSK equ 0213h ;# ">
+"3669
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3669: __asm("SSPMSK equ 0213h");
+[; <" SSPMSK equ 0213h ;# ">
+"3702
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3702: __asm("SSP1STAT equ 0214h");
+[; <" SSP1STAT equ 0214h ;# ">
+"3707
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3707: __asm("SSPSTAT equ 0214h");
+[; <" SSPSTAT equ 0214h ;# ">
+"3824
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3824: __asm("SSP1CON1 equ 0215h");
+[; <" SSP1CON1 equ 0215h ;# ">
+"3829
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3829: __asm("SSPCON1 equ 0215h");
+[; <" SSPCON1 equ 0215h ;# ">
+"3833
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 3833: __asm("SSPCON equ 0215h");
+[; <" SSPCON equ 0215h ;# ">
+"4028
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4028: __asm("SSP1CON2 equ 0216h");
+[; <" SSP1CON2 equ 0216h ;# ">
+"4033
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4033: __asm("SSPCON2 equ 0216h");
+[; <" SSPCON2 equ 0216h ;# ">
+"4150
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4150: __asm("SSP1CON3 equ 0217h");
+[; <" SSP1CON3 equ 0217h ;# ">
+"4155
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4155: __asm("SSPCON3 equ 0217h");
+[; <" SSPCON3 equ 0217h ;# ">
+"4272
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4272: __asm("SSP2BUF equ 0219h");
+[; <" SSP2BUF equ 0219h ;# ">
+"4292
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4292: __asm("SSP2ADD equ 021Ah");
+[; <" SSP2ADD equ 021Ah ;# ">
+"4312
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4312: __asm("SSP2MSK equ 021Bh");
+[; <" SSP2MSK equ 021Bh ;# ">
+"4332
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4332: __asm("SSP2STAT equ 021Ch");
+[; <" SSP2STAT equ 021Ch ;# ">
+"4394
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4394: __asm("SSP2CON1 equ 021Dh");
+[; <" SSP2CON1 equ 021Dh ;# ">
+"4464
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4464: __asm("SSP2CON2 equ 021Eh");
+[; <" SSP2CON2 equ 021Eh ;# ">
+"4526
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4526: __asm("SSP2CON3 equ 021Fh");
+[; <" SSP2CON3 equ 021Fh ;# ">
+"4588
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4588: __asm("CCPR1 equ 0291h");
+[; <" CCPR1 equ 0291h ;# ">
+"4595
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4595: __asm("CCPR1L equ 0291h");
+[; <" CCPR1L equ 0291h ;# ">
+"4615
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4615: __asm("CCPR1H equ 0292h");
+[; <" CCPR1H equ 0292h ;# ">
+"4635
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4635: __asm("CCP1CON equ 0293h");
+[; <" CCP1CON equ 0293h ;# ">
+"4717
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4717: __asm("PWM1CON equ 0294h");
+[; <" PWM1CON equ 0294h ;# ">
+"4787
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4787: __asm("CCP1AS equ 0295h");
+[; <" CCP1AS equ 0295h ;# ">
+"4792
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4792: __asm("ECCP1AS equ 0295h");
+[; <" ECCP1AS equ 0295h ;# ">
+"4949
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4949: __asm("PSTR1CON equ 0296h");
+[; <" PSTR1CON equ 0296h ;# ">
+"4993
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 4993: __asm("CCPR2 equ 0298h");
+[; <" CCPR2 equ 0298h ;# ">
+"5000
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5000: __asm("CCPR2L equ 0298h");
+[; <" CCPR2L equ 0298h ;# ">
+"5020
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5020: __asm("CCPR2H equ 0299h");
+[; <" CCPR2H equ 0299h ;# ">
+"5040
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5040: __asm("CCP2CON equ 029Ah");
+[; <" CCP2CON equ 029Ah ;# ">
+"5122
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5122: __asm("PWM2CON equ 029Bh");
+[; <" PWM2CON equ 029Bh ;# ">
+"5192
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5192: __asm("CCP2AS equ 029Ch");
+[; <" CCP2AS equ 029Ch ;# ">
+"5197
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5197: __asm("ECCP2AS equ 029Ch");
+[; <" ECCP2AS equ 029Ch ;# ">
+"5354
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5354: __asm("PSTR2CON equ 029Dh");
+[; <" PSTR2CON equ 029Dh ;# ">
+"5398
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5398: __asm("CCPTMRS equ 029Eh");
+[; <" CCPTMRS equ 029Eh ;# ">
+"5403
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5403: __asm("CCPTMRS0 equ 029Eh");
+[; <" CCPTMRS0 equ 029Eh ;# ">
+"5572
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5572: __asm("CCPR3 equ 0311h");
+[; <" CCPR3 equ 0311h ;# ">
+"5579
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5579: __asm("CCPR3L equ 0311h");
+[; <" CCPR3L equ 0311h ;# ">
+"5599
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5599: __asm("CCPR3H equ 0312h");
+[; <" CCPR3H equ 0312h ;# ">
+"5619
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5619: __asm("CCP3CON equ 0313h");
+[; <" CCP3CON equ 0313h ;# ">
+"5683
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5683: __asm("CCPR4 equ 0318h");
+[; <" CCPR4 equ 0318h ;# ">
+"5690
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5690: __asm("CCPR4L equ 0318h");
+[; <" CCPR4L equ 0318h ;# ">
+"5710
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5710: __asm("CCPR4H equ 0319h");
+[; <" CCPR4H equ 0319h ;# ">
+"5730
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5730: __asm("CCP4CON equ 031Ah");
+[; <" CCP4CON equ 031Ah ;# ">
+"5794
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5794: __asm("IOCBP equ 0394h");
+[; <" IOCBP equ 0394h ;# ">
+"5864
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5864: __asm("IOCBN equ 0395h");
+[; <" IOCBN equ 0395h ;# ">
+"5934
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 5934: __asm("IOCBF equ 0396h");
+[; <" IOCBF equ 0396h ;# ">
+"6004
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6004: __asm("CLKRCON equ 039Ah");
+[; <" CLKRCON equ 039Ah ;# ">
+"6080
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6080: __asm("MDCON equ 039Ch");
+[; <" MDCON equ 039Ch ;# ">
+"6131
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6131: __asm("MDSRC equ 039Dh");
+[; <" MDSRC equ 039Dh ;# ">
+"6184
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6184: __asm("MDCARL equ 039Eh");
+[; <" MDCARL equ 039Eh ;# ">
+"6249
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6249: __asm("MDCARH equ 039Fh");
+[; <" MDCARH equ 039Fh ;# ">
+"6314
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6314: __asm("TMR4 equ 0415h");
+[; <" TMR4 equ 0415h ;# ">
+"6334
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6334: __asm("PR4 equ 0416h");
+[; <" PR4 equ 0416h ;# ">
+"6354
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6354: __asm("T4CON equ 0417h");
+[; <" T4CON equ 0417h ;# ">
+"6425
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6425: __asm("TMR6 equ 041Ch");
+[; <" TMR6 equ 041Ch ;# ">
+"6445
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6445: __asm("PR6 equ 041Dh");
+[; <" PR6 equ 041Dh ;# ">
+"6465
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6465: __asm("T6CON equ 041Eh");
+[; <" T6CON equ 041Eh ;# ">
+"6536
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6536: __asm("STATUS_SHAD equ 0FE4h");
+[; <" STATUS_SHAD equ 0FE4h ;# ">
+"6568
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6568: __asm("WREG_SHAD equ 0FE5h");
+[; <" WREG_SHAD equ 0FE5h ;# ">
+"6588
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6588: __asm("BSR_SHAD equ 0FE6h");
+[; <" BSR_SHAD equ 0FE6h ;# ">
+"6608
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6608: __asm("PCLATH_SHAD equ 0FE7h");
+[; <" PCLATH_SHAD equ 0FE7h ;# ">
+"6628
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6628: __asm("FSR0L_SHAD equ 0FE8h");
+[; <" FSR0L_SHAD equ 0FE8h ;# ">
+"6648
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6648: __asm("FSR0H_SHAD equ 0FE9h");
+[; <" FSR0H_SHAD equ 0FE9h ;# ">
+"6668
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6668: __asm("FSR1L_SHAD equ 0FEAh");
+[; <" FSR1L_SHAD equ 0FEAh ;# ">
+"6688
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6688: __asm("FSR1H_SHAD equ 0FEBh");
+[; <" FSR1H_SHAD equ 0FEBh ;# ">
+"6708
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6708: __asm("STKPTR equ 0FEDh");
+[; <" STKPTR equ 0FEDh ;# ">
+"6728
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6728: __asm("TOSL equ 0FEEh");
+[; <" TOSL equ 0FEEh ;# ">
+"6748
+[; ;/Users/morimasayuki/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8/pic/include/proc/pic16f1827.h: 6748: __asm("TOSH equ 0FEFh");
+[; <" TOSH equ 0FEFh ;# ">
+"5 DualShock2send.c
+[p x FOSC  =  INTOSC   WDTE  =  OFF   PWRTE  =  ON   MCLRE  =  OFF   CP  =  OFF   CPD  =  OFF   BOREN  =  ON   CLKOUTEN  =  OFF   IESO  =  ON   FCMEN  =  ON ]
+"7
+[p x WRT  =  OFF   PLLEN  =  ON   STVREN  =  ON   BORV  =  HI LVP  =  OFF ]
+"21
+[; ;DualShock2send.c: 21: uint8_t ps_dat[9], data[3];
+[v _ps_dat `uc ~T0 @X0 -> 9 `i e ]
+[v _data `uc ~T0 @X0 -> 3 `i e ]
+[v $root$_main `(v ~T0 @X0 0 e ]
+"27
+[; ;DualShock2send.c: 27: int main (void) {
+[v _main `(i ~T0 @X0 1 ef ]
+{
+[e :U _main ]
+[f ]
+"28
+[; ;DualShock2send.c: 28:     OPTION_REG = 0b11010100;
+[e = _OPTION_REG -> -> 212 `i `uc ]
+"29
+[; ;DualShock2send.c: 29:     TMR0 = 0x00;
+[e = _TMR0 -> -> 0 `i `uc ]
+"30
+[; ;DualShock2send.c: 30:     OSCCON = 0b11110000;
+[e = _OSCCON -> -> 240 `i `uc ]
+"32
+[; ;DualShock2send.c: 32:     TXCKSEL = 1;
+[e = _TXCKSEL -> -> 1 `i `b ]
+"33
+[; ;DualShock2send.c: 33:     CREN = 1;
+[e = _CREN -> -> 1 `i `b ]
+"34
+[; ;DualShock2send.c: 34:     BRGH = 1;
+[e = _BRGH -> -> 1 `i `b ]
+"35
+[; ;DualShock2send.c: 35:     BRG16 = 1;
+[e = _BRG16 -> -> 1 `i `b ]
+"36
+[; ;DualShock2send.c: 36:     SPBRG = 208;
+[e = _SPBRG -> -> 208 `i `uc ]
+"37
+[; ;DualShock2send.c: 37:     TXEN = 1;
+[e = _TXEN -> -> 1 `i `b ]
+"38
+[; ;DualShock2send.c: 38:     SPEN = 1;
+[e = _SPEN -> -> 1 `i `b ]
+"39
+[; ;DualShock2send.c: 39:  TRISA = 0b00000000;
+[e = _TRISA -> -> 0 `i `uc ]
+"40
+[; ;DualShock2send.c: 40:  TRISB = 0b10000100;
+[e = _TRISB -> -> 132 `i `uc ]
+"41
+[; ;DualShock2send.c: 41:     ANSELA = 0x00;
+[e = _ANSELA -> -> 0 `i `uc ]
+"42
+[; ;DualShock2send.c: 42:     ANSELB = 0x00;
+[e = _ANSELB -> -> 0 `i `uc ]
+"43
+[; ;DualShock2send.c: 43:     T1CON = 0b00100001;
+[e = _T1CON -> -> 33 `i `uc ]
+"45
+[; ;DualShock2send.c: 45:     LATB1 = 1; _delay((unsigned long)((50)*(32000000/4000.0)));
+[e = _LATB1 -> -> 1 `i `b ]
+[e ( __delay (1 -> * -> -> 50 `i `d / -> -> 32000000 `l `d .4000.0 `ul ]
+"46
+[; ;DualShock2send.c: 46:     LATB1 = 0; _delay((unsigned long)((50)*(32000000/4000.0)));
+[e = _LATB1 -> -> 0 `i `b ]
+[e ( __delay (1 -> * -> -> 50 `i `d / -> -> 32000000 `l `d .4000.0 `ul ]
+"47
+[; ;DualShock2send.c: 47:     LATB1 = 1; _delay((unsigned long)((50)*(32000000/4000.0)));
+[e = _LATB1 -> -> 1 `i `b ]
+[e ( __delay (1 -> * -> -> 50 `i `d / -> -> 32000000 `l `d .4000.0 `ul ]
+"48
+[; ;DualShock2send.c: 48:     LATB1 = 0; _delay((unsigned long)((50)*(32000000/4000.0)));
+[e = _LATB1 -> -> 0 `i `b ]
+[e ( __delay (1 -> * -> -> 50 `i `d / -> -> 32000000 `l `d .4000.0 `ul ]
+"50
+[; ;DualShock2send.c: 50:  while(1){
+[e :U 356 ]
+{
+"51
+[; ;DualShock2send.c: 51:   _delay((unsigned long)((500)*(32000000/4000000.0)));
+[e ( __delay (1 -> * -> -> 500 `i `d / -> -> 32000000 `l `d .4000000.0 `ul ]
+"52
+[; ;DualShock2send.c: 52:   get_ps_con_new();
+[e ( _get_ps_con_new ..  ]
+"54
+[; ;DualShock2send.c: 54:   data[0]=0;
+[e = *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 0 `i `uc ]
+"55
+[; ;DualShock2send.c: 55:   data[1]=0;
+[e = *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 0 `i `uc ]
+"56
+[; ;DualShock2send.c: 56:   data[2]=0;
+[e = *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 0 `i `uc ]
+"58
+[; ;DualShock2send.c: 58:   if(ps_dat[3] & 0x10) {data[0] |= 0b10000000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 16 `i -> 0 `i 358  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 128 `i `uc ]
+}
+[e :U 358 ]
+"59
+[; ;DualShock2send.c: 59:   if(ps_dat[3] & 0x40) {data[0] |= 0b01000000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 64 `i -> 0 `i 359  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 64 `i `uc ]
+}
+[e :U 359 ]
+"60
+[; ;DualShock2send.c: 60:   if(ps_dat[3] & 0x80) {data[0] |= 0b00100000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 128 `i -> 0 `i 360  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 32 `i `uc ]
+}
+[e :U 360 ]
+"61
+[; ;DualShock2send.c: 61:   if(ps_dat[3] & 0x20) {data[0] |= 0b00010000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 32 `i -> 0 `i 361  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 16 `i `uc ]
+}
+[e :U 361 ]
+"62
+[; ;DualShock2send.c: 62:   if(ps_dat[4] & 0x10) {data[0] |= 0b00001000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 16 `i -> 0 `i 362  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 8 `i `uc ]
+}
+[e :U 362 ]
+"63
+[; ;DualShock2send.c: 63:   if(ps_dat[4] & 0x40) {data[0] |= 0b00000100;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 64 `i -> 0 `i 363  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 4 `i `uc ]
+}
+[e :U 363 ]
+"64
+[; ;DualShock2send.c: 64:   if(ps_dat[4] & 0x80) {data[0] |= 0b00000010;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 128 `i -> 0 `i 364  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 2 `i `uc ]
+}
+[e :U 364 ]
+"65
+[; ;DualShock2send.c: 65:   if(ps_dat[4] & 0x20) {data[0] |= 0b00000001;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 32 `i -> 0 `i 365  ]
+{
+[e =| *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 1 `i `uc ]
+}
+[e :U 365 ]
+"67
+[; ;DualShock2send.c: 67:   if(ps_dat[4] & 0x04) {data[1] |= 0b10000000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 4 `i -> 0 `i 366  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 128 `i `uc ]
+}
+[e :U 366 ]
+"68
+[; ;DualShock2send.c: 68:   if(ps_dat[4] & 0x01) {data[1] |= 0b01000000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 1 `i -> 0 `i 367  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 64 `i `uc ]
+}
+[e :U 367 ]
+"69
+[; ;DualShock2send.c: 69:   if(ps_dat[4] & 0x08) {data[1] |= 0b00100000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 8 `i -> 0 `i 368  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 32 `i `uc ]
+}
+[e :U 368 ]
+"70
+[; ;DualShock2send.c: 70:   if(ps_dat[4] & 0x02) {data[1] |= 0b00010000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 2 `i -> 0 `i 369  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 16 `i `uc ]
+}
+[e :U 369 ]
+"71
+[; ;DualShock2send.c: 71:   if(ps_dat[3] & 0x01) {data[1] |= 0b00001000;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 1 `i -> 0 `i 370  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 8 `i `uc ]
+}
+[e :U 370 ]
+"72
+[; ;DualShock2send.c: 72:   if(ps_dat[3] & 0x08) {data[1] |= 0b00000100;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 8 `i -> 0 `i 371  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 4 `i `uc ]
+}
+[e :U 371 ]
+"73
+[; ;DualShock2send.c: 73:   if(ps_dat[3] & 0x02) {data[1] |= 0b00000010;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 2 `i -> 0 `i 372  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 2 `i `uc ]
+}
+[e :U 372 ]
+"74
+[; ;DualShock2send.c: 74:   if(ps_dat[3] & 0x04) {data[1] |= 0b00000001;}
+[e $ ! != & -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 4 `i -> 0 `i 373  ]
+{
+[e =| *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 1 `i `uc ]
+}
+[e :U 373 ]
+"76
+[; ;DualShock2send.c: 76:   if(ps_dat[8]<=78) {data[2] |= 0b10000000;}
+[e $ ! <= -> *U + &U _ps_dat * -> -> -> 8 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 78 `i 374  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 128 `i `uc ]
+}
+[e :U 374 ]
+"77
+[; ;DualShock2send.c: 77:   if(ps_dat[8]>=185) {data[2] |= 0b01000000;}
+[e $ ! >= -> *U + &U _ps_dat * -> -> -> 8 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 185 `i 375  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 64 `i `uc ]
+}
+[e :U 375 ]
+"78
+[; ;DualShock2send.c: 78:   if(ps_dat[7]<=78) {data[2] |= 0b00100000;}
+[e $ ! <= -> *U + &U _ps_dat * -> -> -> 7 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 78 `i 376  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 32 `i `uc ]
+}
+[e :U 376 ]
+"79
+[; ;DualShock2send.c: 79:   if(ps_dat[7]>=185) {data[2] |= 0b00010000;}
+[e $ ! >= -> *U + &U _ps_dat * -> -> -> 7 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 185 `i 377  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 16 `i `uc ]
+}
+[e :U 377 ]
+"80
+[; ;DualShock2send.c: 80:   if(ps_dat[6]<=78) {data[2] |= 0b00001000;}
+[e $ ! <= -> *U + &U _ps_dat * -> -> -> 6 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 78 `i 378  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 8 `i `uc ]
+}
+[e :U 378 ]
+"81
+[; ;DualShock2send.c: 81:   if(ps_dat[6]>=185) {data[2] |= 0b00000100;}
+[e $ ! >= -> *U + &U _ps_dat * -> -> -> 6 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 185 `i 379  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 4 `i `uc ]
+}
+[e :U 379 ]
+"82
+[; ;DualShock2send.c: 82:   if(ps_dat[5]<=78) {data[2] |= 0b00000010;}
+[e $ ! <= -> *U + &U _ps_dat * -> -> -> 5 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 78 `i 380  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 2 `i `uc ]
+}
+[e :U 380 ]
+"83
+[; ;DualShock2send.c: 83:   if(ps_dat[5]>=185) {data[2] |= 0b00000001;}
+[e $ ! >= -> *U + &U _ps_dat * -> -> -> 5 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 185 `i 381  ]
+{
+[e =| *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux -> -> 1 `i `uc ]
+}
+[e :U 381 ]
+"85
+[; ;DualShock2send.c: 85:         if((data[0] | data[1] | data[2]) == 0){
+[e $ ! == | | -> *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux `i -> *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux `i -> *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux `i -> 0 `i 382  ]
+{
+"86
+[; ;DualShock2send.c: 86:             LATB0 = 1;
+[e = _LATB0 -> -> 1 `i `b ]
+"87
+[; ;DualShock2send.c: 87:         }
+}
+[e $U 383  ]
+"88
+[; ;DualShock2send.c: 88:         else{
+[e :U 382 ]
+{
+"89
+[; ;DualShock2send.c: 89:             LATB0 = 0;
+[e = _LATB0 -> -> 0 `i `b ]
+"90
+[; ;DualShock2send.c: 90:             putch(0x99);
+[e ( _putch (1 -> -> 153 `i `uc ]
+"91
+[; ;DualShock2send.c: 91:             putch(data[0]);
+[e ( _putch (1 *U + &U _data * -> -> -> 0 `i `ui `ux -> -> # *U &U _data `ui `ux ]
+"92
+[; ;DualShock2send.c: 92:             putch(data[1]);
+[e ( _putch (1 *U + &U _data * -> -> -> 1 `i `ui `ux -> -> # *U &U _data `ui `ux ]
+"93
+[; ;DualShock2send.c: 93:             putch(data[2]);
+[e ( _putch (1 *U + &U _data * -> -> -> 2 `i `ui `ux -> -> # *U &U _data `ui `ux ]
+"94
+[; ;DualShock2send.c: 94:             putch(0x4f);
+[e ( _putch (1 -> -> 79 `i `uc ]
+"95
+[; ;DualShock2send.c: 95:         }
+}
+[e :U 383 ]
+"96
+[; ;DualShock2send.c: 96:  }
+}
+[e :U 355 ]
+[e $U 356  ]
+[e :U 357 ]
+"97
+[; ;DualShock2send.c: 97: }
+[e :UE 354 ]
+}
+"102
+[; ;DualShock2send.c: 102: void get_ps_con_new(void){
+[v _get_ps_con_new `(v ~T0 @X0 1 ef ]
+{
+[e :U _get_ps_con_new ]
+[f ]
+"103
+[; ;DualShock2send.c: 103:  uint8_t i,x;
+[v _i `uc ~T0 @X0 1 a ]
+[v _x `uc ~T0 @X0 1 a ]
+"105
+[; ;DualShock2send.c: 105:  LATA2 = 0;
+[e = _LATA2 -> -> 0 `i `b ]
+"106
+[; ;DualShock2send.c: 106:  ps_dat[0]=ps_data(0x01);
+[e = *U + &U _ps_dat * -> -> -> 0 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux ( _ps_data (1 -> -> 1 `i `uc ]
+"107
+[; ;DualShock2send.c: 107:  ps_dat[1]=ps_data(0x42);
+[e = *U + &U _ps_dat * -> -> -> 1 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux ( _ps_data (1 -> -> 66 `i `uc ]
+"108
+[; ;DualShock2send.c: 108:  x=((ps_dat[1] & 0x03) * 2) + 3;
+[e = _x -> + * & -> *U + &U _ps_dat * -> -> -> 1 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i -> 3 `i -> 2 `i -> 3 `i `uc ]
+"109
+[; ;DualShock2send.c: 109:         for(i=2;i<x;i++) {ps_dat[i] = ps_data(0x00);}
+{
+[e = _i -> -> 2 `i `uc ]
+[e $U 388  ]
+[e :U 385 ]
+{
+[e = *U + &U _ps_dat * -> _i `ux -> -> # *U &U _ps_dat `ui `ux ( _ps_data (1 -> -> 0 `i `uc ]
+}
+[e ++ _i -> -> 1 `i `uc ]
+[e :U 388 ]
+[e $ < -> _i `i -> _x `i 385  ]
+[e :U 386 ]
+}
+"110
+[; ;DualShock2send.c: 110:  LATA2 = 1;
+[e = _LATA2 -> -> 1 `i `b ]
+"111
+[; ;DualShock2send.c: 111:  if(i==5){
+[e $ ! == -> _i `i -> 5 `i 389  ]
+{
+"112
+[; ;DualShock2send.c: 112:   for(i=5;i<9;i++) {ps_dat[i] = 0x7f;}
+{
+[e = _i -> -> 5 `i `uc ]
+[e $ < -> _i `i -> 9 `i 390  ]
+[e $U 391  ]
+[e :U 390 ]
+{
+[e = *U + &U _ps_dat * -> _i `ux -> -> # *U &U _ps_dat `ui `ux -> -> 127 `i `uc ]
+}
+[e ++ _i -> -> 1 `i `uc ]
+[e $ < -> _i `i -> 9 `i 390  ]
+[e :U 391 ]
+}
+"113
+[; ;DualShock2send.c: 113:  }
+}
+[e :U 389 ]
+"114
+[; ;DualShock2send.c: 114:  ps_dat[3] = ~ps_dat[3];
+[e = *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux -> ~ -> *U + &U _ps_dat * -> -> -> 3 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i `uc ]
+"115
+[; ;DualShock2send.c: 115:  ps_dat[4] = ~ps_dat[4];
+[e = *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux -> ~ -> *U + &U _ps_dat * -> -> -> 4 `i `ui `ux -> -> # *U &U _ps_dat `ui `ux `i `uc ]
+"116
+[; ;DualShock2send.c: 116: }
+[e :UE 384 ]
+}
+"122
+[; ;DualShock2send.c: 122: uint8_t ps_data(uint8_t pst){
+[v _ps_data `(uc ~T0 @X0 1 ef1`uc ]
+{
+[e :U _ps_data ]
+[v _pst `uc ~T0 @X0 1 r1 ]
+[f ]
+"123
+[; ;DualShock2send.c: 123:  uint8_t i;
+[v _i `uc ~T0 @X0 1 a ]
+"125
+[; ;DualShock2send.c: 125:  for(i=8;i>0;i--){
+{
+[e = _i -> -> 8 `i `uc ]
+[e $ > -> _i `i -> 0 `i 394  ]
+[e $U 395  ]
+[e :U 394 ]
+{
+"126
+[; ;DualShock2send.c: 126:   _delay((unsigned long)((15)*(32000000/4000000.0)));LATA3 = 0;
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 32000000 `l `d .4000000.0 `ul ]
+[e = _LATA3 -> -> 0 `i `b ]
+"127
+[; ;DualShock2send.c: 127:         LATA1 = pst & 0x01;
+[e = _LATA1 -> & -> _pst `i -> 1 `i `b ]
+"128
+[; ;DualShock2send.c: 128:         pst = pst >> 1;
+[e = _pst -> >> -> _pst `i -> 1 `i `uc ]
+"129
+[; ;DualShock2send.c: 129:         _delay((unsigned long)((15)*(32000000/4000000.0))); LATA3 = 1;
+[e ( __delay (1 -> * -> -> 15 `i `d / -> -> 32000000 `l `d .4000000.0 `ul ]
+[e = _LATA3 -> -> 1 `i `b ]
+"130
+[; ;DualShock2send.c: 130:   if(RB7) {pst |= 0x80;}
+[e $ ! _RB7 397  ]
+{
+[e =| _pst -> -> 128 `i `uc ]
+}
+[e :U 397 ]
+"131
+[; ;DualShock2send.c: 131:     }
+}
+[e -- _i -> -> 1 `i `uc ]
+[e $ > -> _i `i -> 0 `i 394  ]
+[e :U 395 ]
+}
+"132
+[; ;DualShock2send.c: 132:  return (pst);
+[e ) _pst ]
+[e $UE 393  ]
+"133
+[; ;DualShock2send.c: 133: }
+[e :UE 393 ]
+}
+"135
+[; ;DualShock2send.c: 135: void putch(uint8_t c){
+[v _putch `(v ~T0 @X0 1 ef1`uc ]
+{
+[e :U _putch ]
+[v _c `uc ~T0 @X0 1 r1 ]
+[f ]
+"136
+[; ;DualShock2send.c: 136:     while(!TRMT);
+[e $U 399  ]
+[e :U 400 ]
+[e :U 399 ]
+[e $ ! _TRMT 400  ]
+[e :U 401 ]
+"137
+[; ;DualShock2send.c: 137:     TXREG = c;
+[e = _TXREG _c ]
+"138
+[; ;DualShock2send.c: 138: }
+[e :UE 398 ]
+}
